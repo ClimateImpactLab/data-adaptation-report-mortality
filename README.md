@@ -12,6 +12,10 @@ The Climate Impact Lab makes data publicly available under the CC BY 4.0 licens
 ## Data Summary:
 Data is based on the methods summarized in Carleton et al. (2022). The data are the impacts of climate change on mortality rates in 2050 (i.e., 20-year average of annual impacts (2040-2059)) under an emissions trajectory consistent with 3°C of warming by the end of the century. (The 3°C warming level represents an increase in Global mean Surface Air Temperature (GSAT) of 3°C at 2100 relative to a pre-industrial time period (1850-1900).) Mortality projections are based on Shared Socioeconomic Pathway 2 (SSP2 v1.1, IIASA), which includes population and GDP into the future, and account for adaptation due to income growth. 
 
+- **Domain**: global
+- **Resolution**: CIL impact regions (to download the shapefile and learn more about impact regions, visit [here](https://github.com/ClimateImpactLab/data-impact-region-shapefile))
+- **Time period**: 2050 (2040-2059 average)
+
 ## Data files
 1. CIL_HumanHealth_March2026-region_data.csv
 2. CIL_HumanHealth_March2026-country_data.csv
